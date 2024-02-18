@@ -15,7 +15,6 @@ a:hover {
 
 main {
     background-color: white;
-    float: left;
 }
 
 header {
@@ -27,7 +26,6 @@ header {
 }
 
 header > nav {
-    float: right;
     font-size: 18px;
     display: block;
     text-align: center;
@@ -64,7 +62,6 @@ body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 16px;background-image: url("/images/m5_bg.jpg");
     background-color: #cccccc;
-    float: left;
 }
 
 body > main {
@@ -76,7 +73,6 @@ body > main {
 
 aside {
     padding: 15px;
-    float: left;
     background-color: white;
     margin-left: 10px;
 }
@@ -98,6 +94,5 @@ footer {
     background-color: darkolivegreen;
     color: white;
     text-align: center;
-    float: left;
     position: fixed;
 }
