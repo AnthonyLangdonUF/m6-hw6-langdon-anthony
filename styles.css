@@ -67,7 +67,7 @@ span {
 
 body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 16px;background-image: url("./images/m5_bg.jpg");
+    font-size: 16px;background-image: url("images/m5_bg.jpg");
     background-color: #cccccc;
     display: flex;
     flex-wrap: wrap;
